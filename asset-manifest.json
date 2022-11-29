@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fe-aug22-dick-pic/product_catalog_f/static/css/main.073c9b0a.css",
+    "main.js": "/fe-aug22-dick-pic/product_catalog_f/static/js/main.a6141529.js",
+    "static/js/787.f462aa92.chunk.js": "/fe-aug22-dick-pic/product_catalog_f/static/js/787.f462aa92.chunk.js",
+    "static/media/logo.svg": "/fe-aug22-dick-pic/product_catalog_f/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fe-aug22-dick-pic/product_catalog_f/index.html",
+    "main.073c9b0a.css.map": "/fe-aug22-dick-pic/product_catalog_f/static/css/main.073c9b0a.css.map",
+    "main.a6141529.js.map": "/fe-aug22-dick-pic/product_catalog_f/static/js/main.a6141529.js.map",
+    "787.f462aa92.chunk.js.map": "/fe-aug22-dick-pic/product_catalog_f/static/js/787.f462aa92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a6141529.js"
+  ]
+}
